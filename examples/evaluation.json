@@ -1,0 +1,7 @@
+[
+  {"question": "What are the advantages of MapReduce?", "reference_answer": "MapReduce offers scalability, fault tolerance and data locality.", "relevant_sources": ["mapreduce.md"]},
+  {"question": "Why is Spark useful for iterative workloads?", "reference_answer": "Spark can cache intermediate data in memory, reducing repeated disk processing.", "relevant_sources": ["spark.txt"]},
+  {"question": "What is photosynthesis?", "reference_answer": "Plants use sunlight to convert carbon dioxide and water into sugars and release oxygen.", "relevant_sources": ["biology.txt"]},
+  {"question": "ما مزايا MapReduce؟", "reference_answer": "قابلية التوسع وتحمل الأعطال", "relevant_sources": ["mapreduce.md"]},
+  {"question": "Compare the intermediate storage of MapReduce and Spark.", "reference_answer": "MapReduce writes intermediate results to disk, while Spark can cache them in memory.", "relevant_sources": ["mapreduce.md", "spark.txt"]}
+]

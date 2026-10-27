@@ -1,0 +1,3 @@
+Apache Spark is a distributed processing engine. It can cache intermediate data in memory, making iterative workloads faster than repeated disk-based processing.
+Spark supports SQL, streaming, machine learning, and graph workloads. Its resilient distributed datasets can recover lost partitions using lineage.
+Spark requires careful memory management. Large datasets may spill to disk, and speed depends on workload and cluster configuration.

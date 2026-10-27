@@ -1,0 +1,4 @@
+# Install only the features you need. OCR also needs the Tesseract executable.
+sentence-transformers>=5,<6
+pymupdf>=1.26,<2
+pytesseract>=0.3.13,<0.4
